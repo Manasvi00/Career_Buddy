@@ -42,10 +42,6 @@ Career Buddy is an AI-powered virtual assistant that delivers instant, personali
 - **Automated Application Help:** Guides you in building resumes and cover letters.
 - **Ethical & Secure:** Protects your data and ensures fair, transparent advice.
 
-## 🏁 Getting Started
-
-_Coming soon: Step-by-step setup and usage instructions!_
-
 ## 🤝 Contributing
 
-We welcome your ideas and improvements! Fork, pull request, or open an issue to get involved.
+Created as part of IBM SkillsBuild Capstone Project. Powered by IBM Cloud Watsonx AI Studio & Prompt Lab.
